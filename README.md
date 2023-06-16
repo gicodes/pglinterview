@@ -10,19 +10,9 @@ Simple CRUD app written with Express, Node.js and JSON.
 
 From your terminal, cd into the working directory `pglinterview`
 
-// To avoid working in a different cwd, confirm you are in the root folder
+Run `npm start` - app uses nodemon, so it auto restarts after any changes
 
-
-Run `npm run start`
-
-// This server uses nodemon, so you can watch out for logs or errors
-
-
-The server should start. Go to your browser and open `localhost:4000`
-
-// Server is listening for 4000 and opens web interface on port 4000 or 127.0.0.1.4000
-
-
+The server should have started. Go to your browser and open `localhost:4000`
 
 Any error that occurs should be displayed on the web page or seen on the terminal.
 
